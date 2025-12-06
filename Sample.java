@@ -4,5 +4,6 @@ class Sample {
     int m=9,n=8;
     System.out.println(m*n);
     System.out.println("automation");
+    System.out.println("new build")
   }
 }
